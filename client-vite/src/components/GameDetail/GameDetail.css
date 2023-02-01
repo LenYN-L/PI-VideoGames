@@ -1,0 +1,55 @@
+.card_detail{
+    /* background-color: pink; */
+    width: 1000px;
+    margin: 20px auto 20px auto;
+    box-shadow: 20px 20px 40px 10px;
+    border-radius: 20px;
+}
+
+.card_detail-img {
+    text-align: center;
+}
+
+img {
+    width: 800px;
+    border-radius: 20px;
+}
+
+.card_detail h2 {
+    font-size: 30px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+
+}
+
+.card_detail h5 {
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 20px;
+
+}
+
+.card_detail-text {
+    width: 900px;
+    position: relative;
+    left: 50px;
+}
+
+.card-text p{
+    font-size: 20px;
+}
+.card-genres {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.genres {
+    font-size: 20px;
+    color: rgb(105, 105, 105);
+}
+
+.card-platforms {
+    font-size: 20px;
+    padding-bottom: 20px;
+    color: rgb(105, 105, 105);
+}

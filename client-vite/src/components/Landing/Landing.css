@@ -1,0 +1,32 @@
+.background {
+    background-image: url(./videogame.png);
+    background-repeat: repeat;
+    background-position: center;
+    background-size: 900px;
+    height: 900px;
+    font-size: 50px;
+}
+
+.container-landing{
+    width: 780px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+.title {
+    display: inline-block;
+}
+
+.enter {
+    text-decoration: none;
+    margin-left: 10px;
+    color: black;
+    border: 2px solid black;
+    padding-left: 4px;
+    padding-right: 4px;
+    border-radius: 10px;
+}
+
+
+

@@ -1,0 +1,82 @@
+
+.create-container {
+    background-image: url(../../../../videogame.png);
+    background-repeat: no-repeat;
+    border-top: 20px solid rgb(50 109 179);
+    border-left: 20px solid rgb(222 0 41) ;
+    border-right: 20px solid rgb(0 170 158);
+    border-bottom: 20px solid rgb(243 194 2);
+    box-shadow: -20px 20px 30px rgb(0 170 158), 20px 20px 30px rgb(222 0 41), 20px -20px 30px rgb(243 194 2), 20px 40px 30px rgb(50 109 179);
+    width: 700px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.create-title {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 35px;
+}
+
+.create-form {
+    padding-left: 30px;
+    padding-bottom: 30px;
+    width: 700px;
+}
+
+.create-name {
+    font-size: 25px; 
+    padding: 5px;
+}
+
+.create-name-genre {
+    font-size: 30px; 
+    padding-top: 10px;
+}
+
+.create-list-genre {
+    font-size: 20px;
+    column-count: 3;
+}
+
+.create-list-platforms {
+    font-size: 20px;
+    column-count: 3;
+}
+
+.create-genres-input {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.create-platforms-input {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.create-input {
+    width: 300px;
+    height: 30px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.create-button {
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 40px;
+    width: 200px;
+}
+
+.create-validate {
+    padding-top: 20px;
+    font-size: 40px;
+    color: rgb(0 170 158);
+}

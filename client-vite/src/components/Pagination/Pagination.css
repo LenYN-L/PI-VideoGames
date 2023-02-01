@@ -1,0 +1,15 @@
+.pagination {
+    height: 100px;
+    /* background-color: aquamarine; */
+    padding-top: 30px;
+}
+
+.pagination-container {
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+}
+
+.pagination-container div button{
+    font-size: 30px;
+}
